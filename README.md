@@ -4,5 +4,5 @@ modul yang digunakan
 2 pengkondisian (for)
 3 perulangan (if else)
 4 function, method
-5 queue
-6 gui
+7 queue
+8 gui
